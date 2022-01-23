@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Yakobus-Mardi
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate in open source
+# Hi, Friend<br>I'm Yakobus Mardi👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakobus-Mardi&show_icons=true&theme=radical)
+
 
 
 <!---
