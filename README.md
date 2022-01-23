@@ -1,6 +1,6 @@
-# Hi, Friend<br>I'm Yakobus Mardi👋
+# Hi,<br>I'm Yakobus Mardi👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakobus-Mardi&show_icons=true&theme=radical)
+
 
 
 
