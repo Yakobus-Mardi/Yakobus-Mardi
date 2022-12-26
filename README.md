@@ -1,4 +1,4 @@
-# Hi,<br>I'm Yakobus Mardi👋
+# Hi,<br>I'm Yakobus Nathan Mardi👋
 
 ![twitter](https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)
 ![linkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
