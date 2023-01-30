@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yakobus-Mardi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yakobus-Mardi&theme=dark&fire=red)](https://git.io/streak-stats)
 
 # Hi,<br>I'm Yakobus Nathan Mardi👋
 
