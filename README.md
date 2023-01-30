@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yakobus-Mardi)](https://git.io/streak-stats)
+
 # Hi,<br>I'm Yakobus Nathan Mardi👋
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
