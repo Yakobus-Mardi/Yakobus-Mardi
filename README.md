@@ -1,4 +1,4 @@
-# Hi,<br>I'm Yakobus Mardi👋
+# Hi,<br>I'm Fin Liaw👋
 
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
